@@ -3,6 +3,7 @@ const storeId = document.getElementById('store-id');
 const storeAddress = document.getElementById('store-address');
 
 // Send POST to API to add store
+//USER ENTERS INFORMATION WHICH GETS SENT TO THE BACKEND API
 async function addStore(e) {
     e.preventDefault();
 

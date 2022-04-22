@@ -1,5 +1,7 @@
 //EXPRESS CRASH COURSE USED FOR DEEPER UNDERSTANDING https://www.youtube.com/watch?v=L72fhGm1tfE&t=155s
 
+//USED CODE SNIPETS FROM LOCAL LEGENDS EXAMPLE//
+
 /* Setup Express */
 const path = require('path');
 const express = require('express');

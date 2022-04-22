@@ -5,6 +5,7 @@ const geocoder = require('../utils/geocoder');
 
 //https://mongoosejs.com/docs/geojson.html
 //GeoJSON is a format for storing geographic points and polygons.
+//USED LOCAL LEGENDS AS GUIDEANCE FOR THE SCHEMA PORTION
 const StoreSchema = new mongoose.Schema({
     storeId: {
         type: String,
